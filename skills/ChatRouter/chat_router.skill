@@ -1,0 +1,14 @@
+<#
+.Description
+Routes the user question to the correct function.
+.Parameters
+@input string The user's question
+.Output string
+#>
+
+{{$input}}
+
+If the question is about inventory stock, route to `Inventory.GetItemStock`.
+If the question asks to list inventory, route to `Inventory.GetAllInventory`.
+If the question is about tent product details, features, brands, or specifications, route to `ProductFAQ.GetProductAnswer`.
+If unsure, reply with `NONE`.

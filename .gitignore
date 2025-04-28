@@ -1,0 +1,19 @@
+# Ignore Python junk
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment variables
+.env
+
+# Ignore SQLite database (optional)
+data/*.db
+
+# Ignore Chainlit cache (optional)
+.chainlit/
+
+# Ignore OS files
+.DS_Store

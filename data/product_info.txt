@@ -1,0 +1,17 @@
+TrailMaster X4 Tent
+- Category: CAMPING & HIKING
+- Type: FAMILY CAMPING TENTS
+- Brand: OutdoorLiving
+- Description: Superior durability and ample space for family camping. Withstands harsh weather, quick setup, UV resistant.
+
+Alpine Explorer Tent
+- Category: CAMPING & HIKING
+- Type: BACKPACKING TENTS
+- Brand: AlpineGear
+- Description: Lightweight, durable for alpine trekking. Waterproof, high-strength poles, cold-weather ready.
+
+SkyView 2-Person Tent
+- Category: CAMPING & HIKING
+- Type: BACKPACKING TENTS
+- Brand: OutdoorLiving
+- Description: Lightweight, mesh roof for stargazing, waterproof, two-door access, stable frame.
