@@ -70,11 +70,3 @@ chainlit run frontend/chainlit_app.py
 
 Visit ➡️ [http://localhost:8000](http://localhost:8000) to start chatting with SmartCamp HQ!
 
----
-
-## ✨ Roadmap
-
-- [ ] Add inventory management agent
-- [ ] Add order tracking agent
-- [ ] Deploy on Azure App Service
-- [ ] Fine-tune tent product model
